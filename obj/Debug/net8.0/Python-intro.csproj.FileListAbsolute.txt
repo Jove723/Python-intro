@@ -1,0 +1,15 @@
+C:\Users\Asus\OneDrive\Documents\Universidad\2024 - 2\Python-intro\bin\Debug\net8.0\Python-intro.exe
+C:\Users\Asus\OneDrive\Documents\Universidad\2024 - 2\Python-intro\bin\Debug\net8.0\Python-intro.deps.json
+C:\Users\Asus\OneDrive\Documents\Universidad\2024 - 2\Python-intro\bin\Debug\net8.0\Python-intro.runtimeconfig.json
+C:\Users\Asus\OneDrive\Documents\Universidad\2024 - 2\Python-intro\bin\Debug\net8.0\Python-intro.dll
+C:\Users\Asus\OneDrive\Documents\Universidad\2024 - 2\Python-intro\bin\Debug\net8.0\Python-intro.pdb
+C:\Users\Asus\OneDrive\Documents\Universidad\2024 - 2\Python-intro\obj\Debug\net8.0\Python-intro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Documents\Universidad\2024 - 2\Python-intro\obj\Debug\net8.0\Python-intro.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Documents\Universidad\2024 - 2\Python-intro\obj\Debug\net8.0\Python-intro.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Documents\Universidad\2024 - 2\Python-intro\obj\Debug\net8.0\Python-intro.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Documents\Universidad\2024 - 2\Python-intro\obj\Debug\net8.0\Python-intro.sourcelink.json
+C:\Users\Asus\OneDrive\Documents\Universidad\2024 - 2\Python-intro\obj\Debug\net8.0\Python-intro.dll
+C:\Users\Asus\OneDrive\Documents\Universidad\2024 - 2\Python-intro\obj\Debug\net8.0\refint\Python-intro.dll
+C:\Users\Asus\OneDrive\Documents\Universidad\2024 - 2\Python-intro\obj\Debug\net8.0\Python-intro.pdb
+C:\Users\Asus\OneDrive\Documents\Universidad\2024 - 2\Python-intro\obj\Debug\net8.0\Python-intro.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\Documents\Universidad\2024 - 2\Python-intro\obj\Debug\net8.0\ref\Python-intro.dll
